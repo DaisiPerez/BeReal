@@ -10,7 +10,7 @@ Time spent: 24 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users see an app icon in the home screen and a styled launch screen.
+- [X] Users see an app icon in the home screen and a styled launch screen.
 - [X] User can register a new account
 - [X] User can log in with newly created account
 - [X] App has a feed of posts when user logs in
@@ -31,11 +31,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://youtu.be/UiRFBIKH5gU
+https://youtu.be/bGkXq9wcESk
 
 ## Notes
 
-Building this app was INCREDIBLY challenging. I tried building it on my own at first but there were too many errors. If it wasn't the info.plist, it was the storyboard files. No  matter how many times I would debug it, it would just showcase an empty screen. After my fourth attempt, I decided to use the starter code from Lab 2. The code was a lot cleaner and a lot easier to read. Both apps practically serve the same function, hence why I used the starter code. I changed the title name from "Instaparse" to "BeReal" in storyboard and called it a day. In one of my MANY attempts, I tried to manually change the file name to "BeReal" but that was a really bad idea because it corrupted all my files and I had to start over again. Forgive me for the app not being called "BeReal on the homescreen, I did not want to take any chances. Aside from this project being incredibly frustrating, I did learn a lot!
+Building this app was INCREDIBLY challenging. I tried building it on my own at first but there were too many errors. If it wasn't the info.plist, it was the storyboard files. No matter how many times I would debug it, it would just showcase an empty screen. After my fourth attempt, I decided to use the starter code from Lab 2. The code was a lot cleaner and a lot easier to read. Both apps practically serve the same function anyway, I just had to make tiny adjustments to accommodate project requirements. I changed the title name from "Instaparse" to "BeReal" in storyboard and called it a day. In one of my MANY attempts, I tried to manually change the file name to "BeReal" but that was a really bad idea because it corrupted all my files and I had to start over again. Aside from this project being incredibly frustrating, I did learn a lot!
 
 ## License
 
